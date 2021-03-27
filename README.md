@@ -19,7 +19,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas focado no desenvolviment
 
 > Aplicado Responsivo :x:
 
-Demonstra uma animação com layer de login de celular. Sua utilização pode ser apreciada em sites que pretendem apresentar a seus clientes o responsivo de seu site ou mesmo divulgar um aplicativo.
+Demonstra uma animação com layer de login de celular. Sua utilização pode ser apreciada em sites que pretendam apresentar a seus clientes o responsivo de seu site ou mesmo divulgar um aplicativo.
 
 ### Licença
 
